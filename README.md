@@ -1,13 +1,3 @@
-
-# Python Practice Repository
-
-Welcome to my Python practice repository! This repository is dedicated to practicing and solving basic problems in Python.
-
-## Overview
-
-This repository serves as a collection of Python scripts and solutions to basic problems that I have studied and encountered during my learning journey. It's a place where I can hone my Python skills, reinforce concepts, and explore various problem-solving techniques.
-
-
 # Python Practice Repository
 
 Welcome to my Python practice repository!
